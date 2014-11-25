@@ -1,0 +1,27 @@
+                            WELCOME TO MINIBOOK
+ 
+                     1:SIGN UP               2:SIGN IN
+
+2
+
+Username: ayushdivyansh
+Password: gurkiratttttttttt
+
+Wrong combination of username and password
+do you want to try again(1=yes)/(2=no)
+
+1
+
+Username: ayushdivyansh
+Password: gurkirat
+
+Since the login attempt is more than once you would 
+be required to answer the security ques as well
+
+Enter the name of your first car: car
+
+Sorry yor are not a valid user of this account
+
+
+Process returned 0 (0x0)   execution time : 31.547 s
+Press any key to continue.

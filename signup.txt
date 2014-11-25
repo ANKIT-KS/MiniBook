@@ -1,0 +1,21 @@
+                            WELCOME TO MINIBOOK
+
+                     1:SIGN UP               2:SIGN IN
+
+1
+
+Enter your name: Ankit
+Enter a suitable username: ayushdivyansh
+Enter your desired password: gurkirat
+Gender(m/f): m
+Do you want to enter the security related queries right now??(y/n): n
+Do you want to describe yourself?(y/n): n
+You are done with your basic information and are good to go
+
+
+                      You are the first user of MINIBOOK 
+
+
+
+Process returned 0 (0x0)   execution time : 21.528 s
+Press any key to continue.
